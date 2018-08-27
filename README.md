@@ -7,7 +7,7 @@ While working on this project, I learned how to create responsive websites quick
 ## Technologies
 Project is created with:
 * Framework CSS - Bootstrap 4.0.0
-* JQuery library version: 3.2.1
+* jQuery library version: 3.2.1
 
 ## Plugins
 * Smooth Scroll [https://github.com/cferdinandi/smooth-scroll]
