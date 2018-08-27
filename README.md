@@ -2,7 +2,7 @@
 
 ## General info
 The project was created to learn [Bootstrap 4](https://getbootstrap.com/docs/4.1/getting-started/introduction/).
-While working on the project, I learned how to create responsive websites quickly and pleasantly.
+While working on this project, I learned how to create responsive websites quickly and pleasantly.
 
 ## Technologies
 Project is created with:
